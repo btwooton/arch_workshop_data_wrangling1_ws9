@@ -4,12 +4,12 @@
 
 ### *Option 1.* Links to Notebooks in Google Colab *(preferred)*:
 
-1. [Python Packages Primer](https://colab.research.google.com/github/btwooton/arch_workshop_data_wrangling1_ws9/blob/master/ws9_hands_on.ipynb)
+1. [WS9 Hands On Module](https://colab.research.google.com/github/btwooton/arch_workshop_data_wrangling1_ws9/blob/master/ws9_hands_on.ipynb)
 
 ### *Option 2.* Alternative Links to Run the Notebook(s) in Binder *(backup for attendees who do not have Google accounts)*:
 **Note: mybinder.org offers significantly resource constrained environments to run interactive jupyter notebooks 
 so you might run into memory issues while running some or all of the modules, depending on the size of the loaded data**
-1. [Python Packages Primer](https://mybinder.org/v2/gh/btwooton/arch_workshop_data_wrangling1_ws9/master?filepath=ws9_hands_on.ipynb)
+1. [WS9 Hands On Module](https://mybinder.org/v2/gh/btwooton/arch_workshop_data_wrangling1_ws9/master?filepath=ws9_hands_on.ipynb)
 
 ### *Option 3.* Minimal Local Environment Instructions *(for Workshop Attendees who Want to Run Locally)* 
 
