@@ -1,0 +1,5 @@
+synthea*
+venv
+generate_patients.sh
+.DS_Store
+*_SOLUTIONS.ipynb
