@@ -8,7 +8,8 @@
 
 ### *Option 2.* Alternative Links to Run the Notebook(s) in Binder *(backup for attendees who do not have Google accounts)*:
 **Note: mybinder.org offers significantly resource constrained environments to run interactive jupyter notebooks 
-so you might run into memory issues while running some or all of the modules, depending on the size of the loaded data**
+so you might run into memory issues while running some or all of the modules, depending on the size of the loaded data.
+This service is also known to be unavailable from time to time at inconsistent and upredictable frequencies. Use at your own discretion.**
 1. [WS9 Hands On Module](https://mybinder.org/v2/gh/btwooton/arch_workshop_data_wrangling1_ws9/master?filepath=ws9_hands_on.ipynb)
 
 ### *Option 3.* Minimal Local Environment Instructions *(for Workshop Attendees who Want to Run Locally)* 
